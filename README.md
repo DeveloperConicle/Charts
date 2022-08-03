@@ -30,7 +30,6 @@ I've chosen to write it in `Swift` as it can be highly optimized by the compiler
 * Optional: Run `carthage checkout` in the project folder, to fetch dependencies (i.e testing dependencies).
   * If you don't have Carthage - you can get it [here](https://github.com/Carthage/Carthage/releases).
 
-
 ## Usage
 
 In order to correctly compile:
